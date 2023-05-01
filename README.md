@@ -14,11 +14,11 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
-### 📊 Stats:
+<!-- ### 📊 Stats:
 <span>
 <img height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=gothic459&layout=default&langs_count=10" />
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gothic459&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=default" />
-</span>
+</span> -->
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=gothic459&theme=default&hide_border=false)<br/>
  -->
